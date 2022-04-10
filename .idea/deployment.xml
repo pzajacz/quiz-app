@@ -138,7 +138,7 @@
       <paths name="zvs.hu">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/quiz" local="$PROJECT_DIR$/build" web="/" />
           </mappings>
         </serverdata>
       </paths>
